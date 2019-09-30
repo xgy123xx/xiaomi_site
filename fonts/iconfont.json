@@ -1,0 +1,93 @@
+{
+  "id": "1442289",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1703525",
+      "name": "信用卡",
+      "font_class": "xinyongqia",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "3216242",
+      "name": "礼盒",
+      "font_class": "icon--",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "3502957",
+      "name": "7",
+      "font_class": "icon-test",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "4775356",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "6279587",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "6570225",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "8707696",
+      "name": "钟表",
+      "font_class": "lishi",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "9193535",
+      "name": "维修",
+      "font_class": "weixiu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9567039",
+      "name": "sim-card-line",
+      "font_class": "sim-card-line",
+      "unicode": "e8e1",
+      "unicode_decimal": 59617
+    },
+    {
+      "icon_id": "9595427",
+      "name": "F",
+      "font_class": "F",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "10708085",
+      "name": "消 息1-01",
+      "font_class": "xiaoxi-",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "10809885",
+      "name": "向右 箭头",
+      "font_class": "changyongtubiao-xianxingdaochu-zhuanqu-",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    }
+  ]
+}
